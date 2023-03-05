@@ -18,4 +18,5 @@ Siempre estoy buscando nuevas oportunidades para aprender y seguir creciendo com
 [![My Skills](https://skills.thijs.gg/icons?i=mysql,react,php)](https://skills.thijs.gg)
 
 [![My Skills](https://skills.thijs.gg/icons?i=git,bootstrap,tailwind)](https://skills.thijs.gg)
-## Encuentrame en:
+## Contacto:
+Leinerdavidhc@gmail.com
