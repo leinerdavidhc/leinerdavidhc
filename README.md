@@ -11,12 +11,12 @@ Siempre estoy buscando nuevas oportunidades para aprender y seguir creciendo com
 > LeinerHC
 
 ## Tecnologias
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,tailwind)](https://skills.thijs.gg)
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,python,nodejs)](https://skills.thijs.gg)
 
 [![My Skills](https://skills.thijs.gg/icons?i=mongodb,react,express)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,bootstrap,tailwind)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git)](https://skills.thijs.gg)
 ## Contacto:
 Leinerdavidhc@gmail.com
