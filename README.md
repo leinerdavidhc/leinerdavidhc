@@ -2,7 +2,7 @@
 
   Soy <strong>Leiner Hoyos Cabrera</strong>, un estudiante de ingeniería de sistemas con experiencia en el desarrollo de software front-end. Actualmente me encuentro en el sexto semestre de mi carrera y tengo 20 años.
 
-He adquirido habilidades en múltiples lenguajes de programación, como Java, JavaScript, Python, HTML y CSS, así como también en herramientas como CSS Grid, CSS Flex, CSS Responsive, React, Bootstrap, Tailwind y Node.js. También tengo un conocimiento básico de Mongodb,Express, Git y GitHub, Django.
+He adquirido habilidades en múltiples lenguajes de programación, como Java, JavaScript, Python, HTML y CSS, así como también en herramientas como CSS Grid, CSS Flex, CSS Responsive, React, Bootstrap, Tailwind y Node.js. También tengo un conocimiento básico de Mongodb,Express, Git y GitHub, Django, TypeScript.
 
 Mi pasión por la programación comenzó hace varios años, y desde entonces he trabajado en varios proyectos personales y colaborativos para seguir mejorando mis habilidades y aprender nuevos conceptos.
 
