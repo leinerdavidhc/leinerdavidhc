@@ -13,7 +13,7 @@ Siempre estoy buscando nuevas oportunidades para aprender y seguir creciendo com
 ## Tecnologias
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,tailwind)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,python,nodejs)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=bootstrap,java,python,nodejs)](https://skills.thijs.gg)
 
 [![My Skills](https://skills.thijs.gg/icons?i=mongodb,react,express)](https://skills.thijs.gg)
 
