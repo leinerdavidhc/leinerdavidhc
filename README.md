@@ -15,8 +15,8 @@ Siempre estoy buscando nuevas oportunidades para aprender y seguir creciendo com
 
 [![My Skills](https://skills.thijs.gg/icons?i=bootstrap,java,python,nodejs)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=mongodb,react,express,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=mongodb,react,express,ty)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=github,django)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,github,django)](https://skills.thijs.gg)
 ## Contacto:
 Leinerdavidhc@gmail.com
