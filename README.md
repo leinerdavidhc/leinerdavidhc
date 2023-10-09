@@ -18,7 +18,7 @@ Mi pasión por la programación comenzó hace varios años, y desde entonces he 
 
 - 📄 Conoce mis experiencias [www.linkedin.com/in/leinerdavidhc](www.linkedin.com/in/leinerdavidhc)
 
-- ⚡ Datos Curiosos **Soy estudiante de ingeniera de sistemas**
+- ⚡ Datos Curiosos **Soy estudiante de ingeniería de sistemas**
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
