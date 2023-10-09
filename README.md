@@ -1,5 +1,12 @@
 <h1 align="center">Hola 👋, soy Leiner Hoyos</h1>
-<h3 align="center">Un apasionado</h3>
+<h3 align="center">Un apasionado Full Stack Developer de colombia</h3>
+
+<p align="left">
+Mi pasión por la programación comenzó hace varios años, y desde entonces he trabajado en varios proyectos personales y colaborativos para seguir mejorando mis habilidades y aprender nuevos conceptos.
+</p>
+<p align="left">
+  Siempre estoy buscando nuevas oportunidades para aprender y seguir creciendo como desarrollador. Espero poder contribuir a la comunidad de programadores y ser parte del mundo en constante evolución de la tecnología.
+</p>
 
 - 🌱 Actualmente estoy aprendiendo **Postgresql**
 
