@@ -22,3 +22,5 @@ Siempre estoy buscando nuevas oportunidades para aprender y seguir creciendo com
 Leinerdavidhc@gmail.com
 
 www.linkedin.com/in/leinerdavidhc
+
+https://www.instagram.com/leinerhoyos_/
