@@ -10,7 +10,7 @@ Mi pasión por la programación comenzó hace varios años, y desde entonces he 
 
 - 🌱 Actualmente estoy aprendiendo **Postgresql**
 
-- 👨‍💻 Conoce sobre mis proyectos en [www.linkedin.com/in/leinerdavidhc](www.linkedin.com/in/leinerdavidhc)
+- 👨‍💻 Conoce sobre mis proyectos en [www.linkedin.com/in/leinerdavidhc](https://leinerhoyos.netlify.app/)
 
 - 💬 Pregúntame sobre **Html, Css, Javascript, React, Tailwind css, Nodejs, Java, Python, Nextjs, Express**
 
